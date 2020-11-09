@@ -1,8 +1,19 @@
+"""
+jw_download.config
+==================
+
+Handle configuration.
+"""
+
 import confuse
 from confuse import exceptions
 
 
-class Config(object):
+class Config:
+    """
+    Handle configuration.
+    """
+
     def __init__(self):
         self.conf = confuse.Configuration('jw_download', __name__)
 

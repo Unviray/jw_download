@@ -9,7 +9,7 @@ from .config import Config
 conf = Config()
 
 
-@click.command(help="JW book downloader")
+@click.command()
 @click.option('--date', default=conf.date, show_default=True)
 @click.option('--pub', default=conf.pub, show_default=True, help="Publication codename")
 @click.option('--fileformat',
@@ -24,6 +24,10 @@ conf = Config()
                                 writable=True,
                                 resolve_path=True))
 def main(date, pub, fileformat, lang, dest):
+    """
+    JW book downloader.
+    """
+
     params = {
         "issue": date,
         "pub": pub,
