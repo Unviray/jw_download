@@ -45,14 +45,6 @@ optional = false
 python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
 
 [[package]]
-name = "python-decouple"
-version = "3.3"
-description = "Strict separation of settings from code."
-category = "main"
-optional = false
-python-versions = "*"
-
-[[package]]
 name = "pyyaml"
 version = "5.3.1"
 description = "YAML parser and emitter for Python"
@@ -113,7 +105,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
 [metadata]
 lock-version = "1.0"
 python-versions = "^3.8"
-content-hash = "a84f6d79ebd4f2ed3020f5fb089eaf4d2dd83e054c0118472bbce18a72b444aa"
+content-hash = "e17317dc08c25924300bec06912c05a8fcf6e18cb2fa39a20221694e7373946a"
 
 [metadata.files]
 certifi = [
@@ -135,9 +127,6 @@ confuse = [
 idna = [
     {file = "idna-2.10-py2.py3-none-any.whl", hash = "sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0"},
     {file = "idna-2.10.tar.gz", hash = "sha256:b307872f855b18632ce0c21c5e45be78c0ea7ae4c15c828c20788b26921eb3f6"},
-]
-python-decouple = [
-    {file = "python-decouple-3.3.tar.gz", hash = "sha256:55c546b85b0c47a15a47a4312d451a437f7344a9be3e001660bccd93b637de95"},
 ]
 pyyaml = [
     {file = "PyYAML-5.3.1-cp27-cp27m-win32.whl", hash = "sha256:74809a57b329d6cc0fdccee6318f44b9b8649961fa73144a98735b0aaf029f1f"},
