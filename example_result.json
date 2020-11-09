@@ -1,0 +1,101 @@
+{
+    "pubName": "Tilikambo (Fianarana)",
+    "parentPubName": "",
+    "booknum": null,
+    "pub": "w",
+    "issue": "202011",
+    "formattedDate": "Novambra&nbsp;2020",
+    "fileformat": [
+        "PDF"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "MG": {
+            "name": "Malagasy",
+            "direction": "ltr",
+            "locale": "mg"
+        }
+    },
+    "files": {
+        "MG": {
+            "PDF": [
+                {
+                    "title": "Mahazatra",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_periodical/2e/w_MG_202011.pdf",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-08-25 20:03:59",
+                        "checksum": "ea86b4dc31ddefd7a8c8df969d47c8be"
+                    },
+                    "filesize": 1387766,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "0p",
+                    "track": 0,
+                    "hasTrack": false,
+                    "pub": "w",
+                    "docid": 0,
+                    "booknum": 0,
+                    "mimetype": "application/pdf",
+                    "edition": "",
+                    "editionDescr": "Mahazatra",
+                    "format": "",
+                    "formatDescr": "Mahazatra",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 0,
+                    "frameHeight": 0,
+                    "frameRate": 0,
+                    "duration": 0,
+                    "bitRate": 0
+                },
+                {
+                    "title": "Soratra Lehibe",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_periodical/0e/w_f-lp_MG_202011.pdf",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-08-25 19:40:31",
+                        "checksum": "36335a00c709fd477c39cb873d2f2104"
+                    },
+                    "filesize": 1439019,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "0p",
+                    "track": 0,
+                    "hasTrack": false,
+                    "pub": "w",
+                    "docid": 0,
+                    "booknum": 0,
+                    "mimetype": "application/pdf",
+                    "edition": "",
+                    "editionDescr": "Mahazatra",
+                    "format": "lp",
+                    "formatDescr": "Soratra Lehibe",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 0,
+                    "frameHeight": 0,
+                    "frameRate": 0,
+                    "duration": 0,
+                    "bitRate": 0
+                }
+            ]
+        }
+    }
+}

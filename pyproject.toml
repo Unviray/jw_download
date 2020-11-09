@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "jw_download"
+version = "0.1.0"
+description = ""
+authors = ["Unviray <unviray@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.24.0"
+click = "^7.1.2"
+yaspin = "^1.2.0"
+tqdm = "^4.51.0"
+python-decouple = "^3.3"
+confuse = "^1.3.0"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+jw = 'jw_download.main:main'
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
