@@ -5,6 +5,11 @@ Command line tool to download publication on jw.org.
 
 ## Installation
 
+From Pypi (recommanded)
+```shell
+$ pip install jw_download
+```
+
 From github
 ```shell
 $ git clone https://github.com/Unviray/jw_download.git
