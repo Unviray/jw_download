@@ -5,7 +5,7 @@ Command line tool to download publication on jw.org.
 
 ## Installation
 
-From Pypi (recommanded)
+From Pypi (recommended)
 ```shell
 $ pip install jw_download
 ```
